@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cranurmo/landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cranurmo/landing/issues"
+  },
+  "homepage": "https://github.com/Cranurmo/landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
